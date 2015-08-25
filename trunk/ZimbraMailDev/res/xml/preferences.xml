@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:orderingFromXml="true">
+    <PreferenceCategory android:orderingFromXml="true" android:enabled="true" android:defaultValue="@string/category_user_data" android:title="@string/category_user_data">
+        <EditTextPreference android:key="login_id" android:title="@string/login_account_text" android:summary="@string/login_account_summary"/>
+    <EditTextPreference android:title="@string/login_user_text" android:summary="@string/login_user_summary" android:key="login_un" android:inputType="textEmailAddress" /><EditTextPreference android:summary="@string/login_pass_summary" android:key="login_pw" android:title="@string/login_pass_text" android:inputType="textPassword" /><EditTextPreference android:summary="@string/login_server_summary" android:key="login_sn" android:title="@string/login_server_text" /></PreferenceCategory>
+    
+    
+    
+    
+    
+
+</PreferenceScreen>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Correo Zimbra</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_main">ZimbraMail</string>
+    <string name="title_text">Zimbra Mail App</string>
+    <string name="login_account_text">Descripcion de Cuenta</string>
+    <string name="login_user_text">Usuario</string>
+    <string name="login_pass_text">Contraseña</string>
+    <string name="login_user" />
+    <string name="login_pass" />
+    <string name="login_server_text">Opcional, Ingrese su Servidor</string>
+    <string name="login_server" />
+    <string name="login_button_text">Login</string>
+    <string name="login_button_alert">Saludos @string/login_user_text</string>
+    <string name="title_activity_display_message">Mensaje de Zimbra</string>
+    <string name="title_activity_preference">Configuracion</string>
+    <string name="button_settings">Config. de Cuentas</string>
+    <string name="category_user_data">Configuración de Cuenta</string>
+    <string name="title_activity_preferences">PreferenceActivity</string>
+    <string name="login_button_editprefs">Editar Preferencias</string>
+    <string name="login_button_showprefs">Mostrar Preferencias</string>
+    <string name="login_account_summary">Ingrese la descripcion de su cuenta</string>
+    <string name="login_user_summary">Ingrese su cuenta [usuario@dominio]</string>
+    <string name="login_pass_summary">Ingrese la contraseña de su cuenta</string>
+    <string name="login_server_summary">Opcionalmente, puede ingresar su servidor de correo..</string>
+    <string name="menu_exit">Salir</string>
+    <string name="title_panel_detail">Detalle</string>
+    <string name="title_panel_list">paneles</string>
+    <string name="button_showpanel">Mostrar Panel</string>
+</resources>
